@@ -1,0 +1,58 @@
+
+#hometext{
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+    align-items: flex-end;
+    font-size: xxx-large;
+    flex-wrap: wrap;
+    font-family: "Comic Sans MS", serif;
+}
+#homelinks{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10vh;
+    font-size: xxx-large;
+    flex-wrap: wrap;
+    font-family: "Comic Sans MS", serif;
+}
+#about {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10vh;
+    font-size: xxx-large;
+    flex-wrap: wrap;
+    font-family: "Comic Sans MS", serif;
+}
+#projects {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10vh;
+    font-size: xxx-large;
+    flex-wrap: wrap;
+    font-family: "Comic Sans MS", serif;
+}
+#contacts {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10vh;
+    font-size: xxx-large;
+    flex-wrap: wrap;
+    font-family: "Comic Sans MS", serif;
+}
+#contact {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10vh;
+    font-size: xxx-large;
+    flex-wrap: wrap;
+    font-family: "Comic Sans MS", serif;
+}
+#contacten {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10vh;
+    font-size: xxx-large;
+    flex-wrap: wrap;
+    font-family: "Comic Sans MS", serif;
+}

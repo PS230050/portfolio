@@ -1,7 +1,8 @@
 
-#hometext{
+#hometext {
     display: flex;
     justify-content: center;
+    background-color:cadetblue ;
     height: 50vh;
     align-items: flex-end;
     font-size: xxx-large;
@@ -19,6 +20,7 @@
 #about {
     display: flex;
     justify-content: space-around;
+    background-color:indigo ;
     margin-top: 10vh;
     font-size: xxx-large;
     flex-wrap: wrap;
@@ -27,6 +29,7 @@
 #projects {
     display: flex;
     justify-content: space-around;
+    background-color:mediumturquoise ;
     margin-top: 10vh;
     font-size: xxx-large;
     flex-wrap: wrap;
@@ -35,6 +38,7 @@
 #contacts {
     display: flex;
     justify-content: space-around;
+    background-color:steelblue;
     margin-top: 10vh;
     font-size: xxx-large;
     flex-wrap: wrap;
@@ -43,6 +47,7 @@
 #contact {
     display: flex;
     justify-content: space-around;
+    background-color: orangered ;
     margin-top: 10vh;
     font-size: xxx-large;
     flex-wrap: wrap;
@@ -51,6 +56,7 @@
 #contacten {
     display: flex;
     justify-content: space-around;
+    background-color: aquamarine;
     margin-top: 10vh;
     font-size: xxx-large;
     flex-wrap: wrap;

@@ -134,3 +134,9 @@ body {
         right: 2em;
     }
 }
+img {
+     width: 1000px; /* Adjust to your preferred size */
+     height: auto; /* Keeps aspect ratio intact */
+     display: block;
+     margin: auto;
+ }
